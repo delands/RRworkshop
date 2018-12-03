@@ -1,0 +1,11 @@
+# 2018-11-27 - Contents of this data file
+Hi all, in here you have 3 files to play with. They are:
+1. 2018-11-26_2017-Cape-Hatteras-BRS-kahuna-CEE.csv
+2. 2018-11-17_Gm182-UserPoints-Start-CEE-Locations-Kahuna.csv
+3. 2018-11-17_Gm182-Start-CEE-Locations-Kahuna.csv
+
+And they correspond to: 
+1) the position of the RV Kahuna at the start and end of the Controlled Exposure Experiment (CEE),
+2) 100 estimated positions of the pilot whale known as Gm182 at the start of the CEE, 
+and including the additional location information from the focal follow vessel, and 
+3) 100 estimated positions of Gm182 at the start of the CEE 
